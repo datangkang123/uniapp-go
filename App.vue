@@ -1,6 +1,6 @@
 <script>
 	export default {
-		// 全局变量，注意修改网址后面不要加/
+		// 全局变量，修改网址后面不要加/
 		globalData: {
 			url: 'http://cx.baixingxs.com/v1',
 			data: {}
