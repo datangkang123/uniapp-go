@@ -1,0 +1,199 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [{
+		"path": "pages/cx/index",
+		"style": {
+			"navigationBarTitleText": "首页",
+			"enablePullDownRefresh": true
+		}
+	}, {
+		"path": "pages/cx/cx",
+		"style": {
+			"navigationBarTitleText": "查询",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/form/tb",
+		"style": {
+			"navigationBarTitleText": "填报",
+			"enablePullDownRefresh": true
+		}
+	}, {
+		"path": "pages/user/user",
+		"style": {
+			"navigationBarTitleText": "个人中心",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/user/login",
+		"style": {
+			"navigationBarTitleText": "登录",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/user/reg",
+		"style": {
+			"navigationBarTitleText": "注册",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/user/forget",
+		"style": {
+			"navigationBarTitleText": "重置密码",
+			"enablePullDownRefresh": false
+		}
+
+	},{
+		"path": "pages/user/edit",
+		"style": {
+			"navigationBarTitleText": "修改用户资料",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/cx/cxtj",
+		"style": {
+			"navigationBarTitleText": "查询",
+			"enablePullDownRefresh": false,
+			"app-plus":{
+					"popGesture": "none"//使ios默认手势关闭页面无效
+			}
+		}
+
+	}, {
+		"path": "pages/form/form",
+		"style": {
+			"navigationBarTitleText": "正在填报",
+			"enablePullDownRefresh": false,
+			"app-plus":{
+					"popGesture": "none"//使ios默认手势关闭页面无效
+			}
+		}
+
+	}, {
+		"path": "pages/form/webview",
+		"style": {
+			"navigationBarTitleText": "外部网页",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/form/tbjg",
+		"style": {
+			"navigationBarTitleText": "填报结果",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/blog/blog",
+		"style": {
+			"navigationBarTitleText": "公告",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/blog/view",
+		"style": {
+			"navigationBarTitleText": "文章详情",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/video/video",
+		"style": {
+			"navigationBarTitleText": "视频",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/cx/cxls",
+		"style": {
+			"navigationBarTitleText": "查询记录",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/form/tbls",
+		"style": {
+			"navigationBarTitleText": "填报记录",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/admin/bgsx",
+		"style": {
+			"navigationBarTitleText": "项目管理",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/admin/table",
+		"style": {
+			"navigationBarTitleText": "查看表格数据",
+			"enablePullDownRefresh": true
+		}
+
+	}, {
+		"path": "pages/admin/bgsxedit",
+		"style": {
+			"navigationBarTitleText": "设置项目",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/form/formedit",
+		"style": {
+			"navigationBarTitleText": "修改填报数据",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/admin/bgsxcreate",
+		"style": {
+			"navigationBarTitleText": "新建项目",
+			"enablePullDownRefresh": false
+		}
+
+	}],
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#3cc51f",
+		"borderStyle": "black",
+		"backgroundColor": "#f9f9f9",
+		"list": [{
+				"pagePath": "pages/cx/index",
+				"iconPath": "static/tar-home.png",
+				"selectedIconPath": "static/tar-home-on.png",
+				"text": "首页"
+			},
+			// {
+			// 	"pagePath": "pages/form/tb",
+			// 	"iconPath": "static/tar-li.png",
+			// 	"selectedIconPath": "static/tar-li-on.png",
+			// 	"text": "填报"
+			// }, {
+			// 	"pagePath": "pages/blog/blog",
+			// 	"iconPath": "static/tar-comments.png",
+			// 	"selectedIconPath": "static/tar-comments-on.png",
+			// 	"text": "公告"
+			// }, 
+			{
+				"pagePath": "pages/user/user",
+				"iconPath": "static/tar-person.png",
+				"selectedIconPath": "static/tar-person-on.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "Excel查询填报系统",
+		"navigationBarBackgroundColor": "#55aaff",
+		"backgroundColor": "#FFFFFF"
+	}
+}
