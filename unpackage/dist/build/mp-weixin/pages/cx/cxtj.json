@@ -1,0 +1,25 @@
+{
+  "navigationBarTitleText": "查询",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "htz-image-upload": "/components/htz-image-upload/htz-image-upload",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "kzh-table": "/uni_modules/kzh-table/components/kzh-table/kzh-table",
+    "kzh-tr": "/uni_modules/kzh-table/components/kzh-tr/kzh-tr",
+    "kzh-th": "/uni_modules/kzh-table/components/kzh-th/kzh-th",
+    "kzh-td": "/uni_modules/kzh-table/components/kzh-td/kzh-td",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "uni-table": "/uni_modules/uni-table/components/uni-table/uni-table",
+    "uni-tr": "/uni_modules/uni-table/components/uni-tr/uni-tr",
+    "uni-th": "/uni_modules/uni-table/components/uni-th/uni-th",
+    "uni-td": "/uni_modules/uni-table/components/uni-td/uni-td"
+  }
+}

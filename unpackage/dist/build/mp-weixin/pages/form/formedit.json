@@ -1,0 +1,23 @@
+{
+  "navigationBarTitleText": "修改填报数据",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio",
+    "u-checkbox-group": "/uview-ui/components/u-checkbox-group/u-checkbox-group",
+    "u-checkbox": "/uview-ui/components/u-checkbox/u-checkbox",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "htz-image-upload": "/components/htz-image-upload/htz-image-upload",
+    "u-upload": "/uview-ui/components/u-upload/u-upload",
+    "u-picker": "/uview-ui/components/u-picker/u-picker",
+    "uni-table": "/uni_modules/uni-table/components/uni-table/uni-table",
+    "uni-tr": "/uni_modules/uni-table/components/uni-tr/uni-tr",
+    "uni-th": "/uni_modules/uni-table/components/uni-th/uni-th",
+    "uni-td": "/uni_modules/uni-table/components/uni-td/uni-td",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-back-top": "/uview-ui/components/u-back-top/u-back-top"
+  }
+}

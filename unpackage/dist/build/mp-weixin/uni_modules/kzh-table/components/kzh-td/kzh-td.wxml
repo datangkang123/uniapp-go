@@ -1,0 +1,1 @@
+<view class="{{['kzh-table-td',(border)?'table--border':'']}}" style="width:65%;font-size:12px;"><slot></slot></view>

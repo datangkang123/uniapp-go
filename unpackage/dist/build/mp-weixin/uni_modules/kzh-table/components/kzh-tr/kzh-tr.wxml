@@ -1,0 +1,1 @@
+<view class="kzh-table-tr"><block wx:if="{{selection==='selection'}}"><view class="{{['checkbox',(border)?'tr-table--border':'']}}"><table-checkbox vue-id="1dfe68b6-1" bind:__l="__l"></table-checkbox></view></block><slot></slot></view>

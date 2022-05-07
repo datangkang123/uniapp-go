@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "填报结果",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "kzh-table": "/uni_modules/kzh-table/components/kzh-table/kzh-table",
+    "kzh-tr": "/uni_modules/kzh-table/components/kzh-tr/kzh-tr",
+    "kzh-th": "/uni_modules/kzh-table/components/kzh-th/kzh-th",
+    "kzh-td": "/uni_modules/kzh-table/components/kzh-td/kzh-td",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "uni-table": "/uni_modules/uni-table/components/uni-table/uni-table",
+    "uni-tr": "/uni_modules/uni-table/components/uni-tr/uni-tr",
+    "uni-th": "/uni_modules/uni-table/components/uni-th/uni-th",
+    "uni-td": "/uni_modules/uni-table/components/uni-td/uni-td",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

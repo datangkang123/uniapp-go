@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "查询",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item",
+    "u-back-top": "/uview-ui/components/u-back-top/u-back-top"
+  }
+}

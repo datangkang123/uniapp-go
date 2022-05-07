@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "查询记录",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item",
+    "u-back-top": "/uview-ui/components/u-back-top/u-back-top"
+  }
+}

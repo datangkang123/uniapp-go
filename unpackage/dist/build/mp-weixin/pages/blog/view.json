@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-list-item": "/uni_modules/uni-list/components/uni-list-item/uni-list-item",
+    "u-back-top": "/uview-ui/components/u-back-top/u-back-top",
+    "jo-markdown": "/components/jo-markdown/decode"
+  }
+}

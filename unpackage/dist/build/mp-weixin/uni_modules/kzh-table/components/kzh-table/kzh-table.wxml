@@ -1,0 +1,1 @@
+<view class="{{['kzh-table-scroll',(border)?'table--border':'',(!noData)?'border-none':'']}}"><view class="{{['kzh-table',(stripe)?'table--stripe':'']}}" style="{{'min-width:'+(minWidth+'px')+';'}}"><slot></slot><block wx:if="{{loading}}"><view class="{{['kzh-table-mask',(border)?'empty-border':'']}}"><view class="kzh-table--loader _div"></view></view></block></view></view>

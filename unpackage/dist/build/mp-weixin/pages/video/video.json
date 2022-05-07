@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "视频",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-alert-tips": "/uview-ui/components/u-alert-tips/u-alert-tips",
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "uni-td": "/uni_modules/uni-table/components/uni-td/uni-td"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "decode": "/components/jo-markdown/decode",
+    "audio-player": "/components/jo-markdown/audio-player/audio-player",
+    "latex": "/components/jo-markdown/latex/latex",
+    "rtable": "/components/jo-markdown/table/table",
+    "todogroup": "/components/jo-markdown/todogroup/todogroup",
+    "yuml": "/components/jo-markdown/yuml/yuml",
+    "img": "/components/jo-markdown/img/img"
+  }
+}
